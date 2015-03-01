@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MainClass {
 
 	public static void main(String[] args){
-		//master
+		//master cambio en web
 		System.out.println("Por favor escriba algo");
 		String textoTeclado;
 		Scanner textoScanner;
